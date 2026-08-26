@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# game specific files
+game_events.json1
